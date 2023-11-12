@@ -1,0 +1,15 @@
+var data = {
+"type": "FeatureCollection",
+"name": "inflow",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "06001", "State_A": "Illinois", "County_A": "Cook County", "State_B": "California", "County_B": "Alameda County", "Flow_B2A": 823, "Flow_A2B": null, "Net_B2A": -425, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -121.8889, "B_lat": 37.6465 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
+{ "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "06059", "State_A": "Illinois", "County_A": "Cook County", "State_B": "California", "County_B": "Orange County", "Flow_B2A": 842, "Flow_A2B": null, "Net_B2A": -272, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -117.761, "B_lat": 33.7031 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
+{ "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "12011", "State_A": "Illinois", "County_A": "Cook County", "State_B": "Florida", "County_B": "Broward County", "Flow_B2A": 916, "Flow_A2B": null, "Net_B2A": -238, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -80.4873, "B_lat": 26.1522 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
+{ "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "36047", "State_A": "Illinois", "County_A": "Cook County", "State_B": "New York", "County_B": "Kings County", "Flow_B2A": 951, "Flow_A2B": 959, "Net_B2A": -8, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -73.9386, "B_lat": 40.6398 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
+{ "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "39035", "State_A": "Illinois", "County_A": "Cook County", "State_B": "Ohio", "County_B": "Cuyahoga County", "Flow_B2A": 831, "Flow_A2B": 655, "Net_B2A": 176, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -81.6587, "B_lat": 41.4243 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
+{ "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "48201", "State_A": "Illinois", "County_A": "Cook County", "State_B": "Texas", "County_B": "Harris County", "Flow_B2A": 846, "Flow_A2B": null, "Net_B2A": -645, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -95.393, "B_lat": 29.8575 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
+{ "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "48453", "State_A": "Illinois", "County_A": "Cook County", "State_B": "Texas", "County_B": "Travis County", "Flow_B2A": 880, "Flow_A2B": 629, "Net_B2A": 251, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -97.7816, "B_lat": 30.3346 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } },
+{ "type": "Feature", "properties": { "GEOID_A": "17031", "GEOID_B": "53033", "State_A": "Illinois", "County_A": "Cook County", "State_B": "Washington", "County_B": "King County", "Flow_B2A": 958, "Flow_A2B": null, "Net_B2A": null, "A_lon": -87.8169, "A_lat": 41.84, "B_lon": -121.8064, "B_lat": 47.4901 }, "geometry": { "type": "Point", "coordinates": [ -87.8169, 41.84 ] } }
+]
+}
